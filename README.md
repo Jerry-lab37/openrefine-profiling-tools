@@ -8,5 +8,5 @@ This repository provides a comprehensive guide and examples for using OpenRefine
 - **Data Exporting**: Save cleaned datasets in multiple formats.
 
 ## Installation and testing Guide
-[Follow the detailed steps here](Install Openrefine and testing.pdf).
+[Follow the detailed steps here](/Install Openrefine and testing.pdf).
 
